@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://nanoincub.com.br/wp-content/uploads/2021/09/cropped-nanoincub-logo.png" alt="nanoIncub_logo" height="120"/>
+  <img src="https://nanoincub.com.br/wp-content/uploads/2021/09/cropped-nanoincub-logo.png" alt="nanoIncub_logo" height="80"/>
 </p>
 <h1 align="center">
   Desafio Nano Incub
