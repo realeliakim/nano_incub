@@ -23,12 +23,14 @@ $ cd nano_incub_teste
 
 # Instale todas as dependências
 $ composer update -vvv
+$ npm install
+$ npm run dev
 
 #Banco de dados
 Renomei o arquivo env.example para .env e insira suas credenciais do banco
 
 #Migrations
-$ php artisan db:migrate
+$ php artisan migrate
 
 # Execute a aplicação
 $ php artisan serve

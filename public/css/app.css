@@ -231,11 +231,11 @@ sup {
 }
 
 a {
-  color: #fff;
-  text-decoration: none;
+  color: #0d6efd;
+  text-decoration: underline;
 }
 a:hover {
-  color: #fff;
+  color: #0a58ca;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -493,64 +493,6 @@ progress {
   font-weight: 300;
   line-height: 1.2;
 }
-
-.w5{
-  width: 5%;
-}
-
-.w10{
-    width: 10%;
-}
-
-.w15{
-  width: 15%;
-}
-
-.w20{
-  width: 20%;
-}
-
-.w25{
-  width: 25%;
-}
-
-.w30{
-  width: 30%;
-}
-
-.w35{
-  width: 35%;
-}
-
-.w40{
-  width: 40%;
-}
-
-.w45{
-  width: 45%;
-}
-
-.w50{
-  width: 50%;
-}
-
-.padding15{
-  padding: 15px 0;
-}
-
-.pagination{
-  padding: 20px 0;
-}
-
-#form{
-  margin: 0 auto;
-  padding: 40px 5%;
-}
-
-#form .margin30{
-  margin-top: 30px;
-}
-
 @media (min-width: 1200px) {
   .display-1 {
     font-size: 5rem;
