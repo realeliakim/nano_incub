@@ -16,7 +16,7 @@
 
 ```bash
 # Clone este repositório.
-$ git clone git@github.com:realeliakim/nano_incub_teste.git
+$ git clone git@github.com:realeliakim/nano_incub.git
 
 # Vá para a pasta do projeto
 $ cd nano_incub_teste
